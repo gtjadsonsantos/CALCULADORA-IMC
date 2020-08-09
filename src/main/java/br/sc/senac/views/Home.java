@@ -93,7 +93,6 @@ public class Home extends JFrame implements ActionListener {
 
 		} catch (Exception e) {
 			JOptionPane.showMessageDialog(null, "Digite Somente Números");
-
 		}
 
 	}
